@@ -10,4 +10,6 @@ ROMEO: What light through yonder window breaks?
 
 JULIET: Oh poison, nice.
 
+ROMEO: Oh cool a dagger. Bye.
+
 THE END
