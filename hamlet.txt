@@ -1,0 +1,11 @@
+HAMLET
+
+Ghost: I'm a ghost
+
+Hamlet: To be or not to be, poor Yorick! Alas. OK.
+
+Polonius: I'm a curtain
+
+Hamlet: I'm dead.
+
+THE END
